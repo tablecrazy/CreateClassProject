@@ -16,4 +16,4 @@ namespace Tmpl8
 	{
 		printf("Speed: %d \n", speed);
 	}
-}
+};
